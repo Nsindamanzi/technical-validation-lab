@@ -1,3 +1,11 @@
+## 🔗 Related Portfolio
+
+This lab complements my hands-on cybersecurity work documented in:
+
+👉 https://github.com/Nsindamanzi/cryptasphere-labs
+
+While that repository demonstrates practical lab execution, this one focuses on validating skills under interview conditions and structured problem-solving.
+
 🚀 Technical Validation Lab
 
 This repository documents a structured 2-week skill validation system designed to simulate real-world technical interviews and operational problem-solving under time constraints.
